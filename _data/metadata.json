@@ -1,9 +1,9 @@
 {
-  "title": "Your Blog Name",
+  "title": "Artyom Grankin",
   "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Blog about my path in programming and not only.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Blog about my path in programming and not only.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -13,8 +13,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Artyom Grankin",
+    "email": "jyjyjyj3@gmail.com",
     "url": "https://example.com/about-me/"
   }
 }
